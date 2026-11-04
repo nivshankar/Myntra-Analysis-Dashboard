@@ -134,7 +134,7 @@ Source Data  (Orders · Products · Brands · Inventory · Cities)
 
 The Sales Overview page is the landing page of the report. Three dropdown slicers (**Brands, Category, City Tier**) sit on the left, followed by two KPI cards with trend sparklines, a city-tier donut chart, and two bar-style charts that break down orders by category and by brand.
 
-![Sales Overview Dashboard](Assets/Sales_Overview.png)
+![Sales Overview Dashboard](Screenshots/Sales_Overview.png)
 
 ---
 
@@ -175,7 +175,7 @@ The Sales Overview page is the landing page of the report. Three dropdown slicer
 
 The Product Analysis page digs into the product catalogue and fulfilment. The top row carries four visuals (product distribution, size-wise inventory, brand revenue and city-tier revenue), while the bottom row has a **Top 10 Products by Revenue** table and an **Order Status Distribution** donut.
 
-![Product Analysis Dashboard](Assets/Product_Analysis.png)
+![Product Analysis Dashboard](Screenshots/Product_Analysis.png)
 
 ---
 
